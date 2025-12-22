@@ -6,6 +6,8 @@ Este trabalho apresenta uma análise exploratória de incidentes envolvendo sist
 
 Além de apresentar os resultados obtidos, o trabalho também discute suas limitações e oportunidades de aprimoramento, como a ampliação das fontes de dados analisadas, a aplicação de técnicas estatísticas mais robustas e o uso de modelos de linguagem para melhorar a classificação dos incidentes a partir de suas descrições textuais. Essa reflexão metodológica serve como base para orientar estudos futuros e tornar o monitoramento de incidentes mais preciso e abrangente. Assim, o repositório consolida um ponto de partida para quem deseja aprofundar o entendimento sobre riscos, confiabilidade e governança de sistemas de inteligência artificial.
 
-O trabalho foi realizado na plataforma *Databricks*, consolidado inteiramente em um notebook que foi exportado aqui esse repositório:
+O trabalho foi realizado na plataforma *Databricks*, consolidado inteiramente em um notebook (*mvp_ed.ipynb*) que foi exportado aqui para esse repositório. Devido a problemas de renderização do notebook no *GitHub*, a recomendação é que a visualização seja realizada através do *Google Colab*, oferecendo uma renderização e experiência superior:
 
-- Notebook: [mvp_ed.ipynb](mvp_ed.ipynb)
+- Link para abertura no Google Colab: [mvp_ed.ipynb](https://colab.research.google.com/github/rogerlga/mvp-ed/blob/main/mvp_ed.ipynb)
+
+> Nota: o projeto foi inteiramente realizado no *Databricks* e, apenas por uma questão de melhoria da visualização, está sendo disponibilizado o link acima de abertura no *Colab* do arquivo depositado no *GitHub*. A renderização não é totalmente fiel ao que se apresenta no *Databricks* - por exemplo, o último output foi configurado para renderizar como um gráfico de linha no *Databricks*, mas no *Colab* ele aparece como tabela - no entanto, não compromete a visualização e avaliação do trabalho (ao contrário da renderização diretamente no *GitHub*, que fica bastante comprometida).
